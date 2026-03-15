@@ -1,34 +1,36 @@
-# Matthias Marczyk
+# Hi, I'm Matthias 👋
 
-IT enthusiast currently transitioning into the IT field with a focus on IT support and troubleshooting.
+I am currently transitioning into the IT field with a focus on **IT support and troubleshooting**.
 
-## About me
+I enjoy learning about computer systems, networking, and building small Python tools to automate simple IT tasks.
 
-I am currently building practical skills in:
+## Current Focus
 
 - IT support fundamentals
-- troubleshooting common system and network issues
-- Python scripting for small IT tools
+- troubleshooting common system issues
+- Python scripting
+- system diagnostics
 
-My goal is to start a career in IT support or IT service technician roles while continuing to develop my programming skills.
+## Projects
 
-## Current projects
+### IT Troubleshooting Tool
+A small Python tool that provides basic troubleshooting steps for common IT issues.
 
-- IT Troubleshooting Tool  
-  A small Python tool that provides basic troubleshooting steps for common IT issues.
+### System Health Check Tool
+A Python script that displays system information such as operating system, disk usage, and RAM usage.
 
-- System Health Check Tool  
-  A Python tool that displays system information such as operating system, disk usage, and RAM usage.
+### Network Diagnostic Tool
+A command-line tool that performs basic network diagnostics like hostname lookup, IP detection, and DNS testing.
 
 ## Technologies
 
 - Python
-- basic networking (LAN/WLAN)
-- troubleshooting
-- system diagnostics
+- Networking basics (LAN/WLAN)
+- Troubleshooting
+- System diagnostics
 
 ## Currently learning
 
-- Python scripting
-- IT support concepts
-- system diagnostics
+- Python automation
+- IT support workflows
+- network diagnostics
