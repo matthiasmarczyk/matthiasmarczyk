@@ -1,16 +1,34 @@
-## Hi there 👋
+# Matthias Marczyk
 
-<!--
-**matthiasmarczyk/matthiasmarczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT enthusiast currently transitioning into the IT field with a focus on IT support and troubleshooting.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently building practical skills in:
+
+- IT support fundamentals
+- troubleshooting common system and network issues
+- Python scripting for small IT tools
+
+My goal is to start a career in IT support or IT service technician roles while continuing to develop my programming skills.
+
+## Current projects
+
+- IT Troubleshooting Tool  
+  A small Python tool that provides basic troubleshooting steps for common IT issues.
+
+- System Health Check Tool  
+  A Python tool that displays system information such as operating system, disk usage, and RAM usage.
+
+## Technologies
+
+- Python
+- basic networking (LAN/WLAN)
+- troubleshooting
+- system diagnostics
+
+## Currently learning
+
+- Python scripting
+- IT support concepts
+- system diagnostics
