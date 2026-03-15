@@ -1,5 +1,12 @@
 # Hi, I'm Matthias 👋
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![IT Support](https://img.shields.io/badge/IT%20Support-Learning-green)
+![Networking](https://img.shields.io/badge/Networking-Basics-orange)
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-Practice-red)
+![GitHub](https://img.shields.io/badge/GitHub-Projects-black)
+![Learning](https://img.shields.io/badge/Learning-Python-yellow)
+
 I am currently transitioning into the IT field with a focus on **IT support and troubleshooting**.
 
 I enjoy learning about computer systems, networking, and building small Python tools to automate simple IT tasks.
